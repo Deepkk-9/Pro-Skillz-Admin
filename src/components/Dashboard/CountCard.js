@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-const CountCard = ({name, count}) => {
+const CountCard = ({ name, count }) => {
 
 	return (
 		<div className="bg-white rounded-md border border-gray-100 w-1/5 max-sm:w-full pl-5 py-5 shadow-lg shadow-black/5 hover:shadow-2xl h-fit">
